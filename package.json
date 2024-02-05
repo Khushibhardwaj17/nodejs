@@ -1,0 +1,15 @@
+{
+  "name": "khushi",
+  "version": "1.0.0",
+  "description": "it's a amazing package",
+  "main": "indexN.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "khushi",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^17.1.2",
+    "express": "^4.18.2"
+  }
+}
